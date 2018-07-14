@@ -9,6 +9,7 @@ Things to _potentially_ bring up in an interview in addition to the details on a
 - Trending on several subreddits including r/javascript, r/node, r/programming
 - Received messages from people saying they didn't know such a thing was possible
 - Applications include smart TVs, games, and interactive educational experiences
+- Over 2,000 unique visitors
 
 ### Tutorial for https://vuejs.org
 
