@@ -27,5 +27,3 @@ Competitive Programmer's Handbook (book)
 ## Miscellaneous
 
 - [Notes](./notes.md)
-- [Things to Talk About](things_to_talk_about.md)
-- [Contacting Recruiters](contacting_recruiters.md)
