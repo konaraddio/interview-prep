@@ -1,18 +1,22 @@
-# interview-preparation
+# interview-prep
 
-## The Plan
-
-1.  Become familiar with the fundamentals
-2.  Read Cracking the Coding Interview
-3.  Solve Leetcode questions while reading Competitive Programmer's Handbook
+Preparing for interviews
 
 ## Getting Started
 
 1.  Install Node.js (if not already installed)
-2.  `cd interview-preparation`
-3.  `npm install` to install all dependencies
+2.  `cd interview-prep/`
+3.  `npm i` to install all dependencies
 4.  `npm t` to run all tests
 5.  `npm t -- specific_file_or_folder` to run tests for a specific file or folder
+
+Using TypeScript and Jest
+
+## The Plan
+
+- [ ] Become familiar with common data structures and algorithms
+- [ ] Go through _Cracking the Coding Interview_
+- [ ] Solve Leetcode questions and consider reading _Competitive Programmer's Handbook_
 
 ## Resources
 

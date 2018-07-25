@@ -1,7 +1,7 @@
 {
-  "name": "fundamentals",
+  "name": "interview-prep",
   "version": "1.0.0",
-  "description": "Fundamentals",
+  "description": "Preparing for interviews",
   "main": "index.js",
   "scripts": {
     "test": "jest"
