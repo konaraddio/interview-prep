@@ -1,6 +1,6 @@
 # Fundamentals
 
-- [ ] Quick Sort
+- [X] [Quick Sort](./quicksort/)
 - [x] [Stack](./stack/)
 - [x] [Queue](./queue/)
 - [x] [Linked List](./linked-list/)
