@@ -12,11 +12,11 @@ Preparing for interviews
 
 Using TypeScript and Jest
 
+[Notes](./NOTES.md)
+
 ## Resources
 
 - Cracking the Coding Interview (book)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [Leetcode](https://leetcode.com)
 - Competitive Programmer's Handbook (book)
-
-[Miscellaneous Notes](./notes.md)
