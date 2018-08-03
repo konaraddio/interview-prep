@@ -2,7 +2,7 @@
 
 Preparing for interviews
 
-[Fundamentals](./src/fundamentals/) | [CTCI](./src/ctci) | [Notes](./NOTES.md)
+[Fundamentals](./src/fundamentals/) | [CTCI](./src/ctci/) | [Notes](./NOTES.md)
 
 ## Getting Started
 

@@ -5,3 +5,4 @@
 - [1.3 URLify](./03/)
 - [1.4 Palindrome Permutation](./04/)
 - [1.5 One Away](./05/)
+- [1.6 String Compression](./06/)
