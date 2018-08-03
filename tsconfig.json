@@ -2,7 +2,7 @@
   "compilerOptions": {
     "sourceMap": false,
     "declaration": true,
-    "target": "ES5",
+    "target": "es6",
     "module": "commonjs",
     "moduleResolution": "node",
     "noEmitOnError": true,
@@ -20,11 +20,6 @@
     "rootDir": "src",
     "skipLibCheck": true
   },
-  "include": [
-    "src/**/*.ts",
-    "src/**/*.tsx"
-  ],
-  "exclude": [
-    "node_modules"
-  ]
+  "include": ["src/**/*.ts", "src/**/*.tsx"],
+  "exclude": ["node_modules"]
 }
