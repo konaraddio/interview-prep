@@ -10,7 +10,7 @@ Preparing for interviews
 2.  `cd interview-prep/`
 3.  `npm i` to install all dependencies
 4.  `npm t` to run all tests
-5.  `npm t -- path_to_specific_folder/` to run tests for a specific folder
+5.  `npm t path_to_folder/` to run tests for a specific folder
 
 Using TypeScript and Jest
 
