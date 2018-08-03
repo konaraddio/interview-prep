@@ -2,6 +2,8 @@
 
 Preparing for interviews
 
+[Fundamentals](./src/fundamentals/) | [CTCI](./src/ctci) | [Notes](./NOTES.md)
+
 ## Getting Started
 
 1.  Install Node.js (if not already installed)
@@ -11,8 +13,6 @@ Preparing for interviews
 5.  `npm t -- path_to_specific_folder/` to run tests for a specific folder
 
 Using TypeScript and Jest
-
-[Notes](./NOTES.md)
 
 ## Resources
 
