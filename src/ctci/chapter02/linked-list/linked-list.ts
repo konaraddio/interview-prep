@@ -12,7 +12,7 @@ class LinkedList<T> {
 
   // compares two pieces of data and returns a boolean (true if equal, false otherwise)
   // useful if the linkedlist should contain objects like {x: 3, y: 4}
-  compareData: Function; 
+  compareData: Function;
 
   constructor(compareData = (a: T, b: T) => a === b) {
     this.head = null;
@@ -86,3 +86,5 @@ class LinkedList<T> {
 }
 
 export default LinkedList;
+
+export { LinkedList, Node };

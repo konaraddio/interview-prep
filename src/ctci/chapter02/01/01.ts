@@ -3,7 +3,7 @@ import LinkedList from "../linked-list/linked-list";
 type StringOrNumber = string | number;
 
 class NewLinkedList extends LinkedList<StringOrNumber> {
-  removeDups() {
+  removeDups(): void {
     let uniqueData: {
       // @ts-ignore
       [data: StringOrNumber]: boolean;
