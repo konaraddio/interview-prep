@@ -2,8 +2,6 @@
 
 Preparing for interviews
 
-[Fundamentals](./src/fundamentals/) | [CTCI](./src/ctci/)
-
 ## Getting Started
 
 1.  Install Node.js (if not already installed)
@@ -13,6 +11,26 @@ Preparing for interviews
 5.  `npm t path_to_folder/` to run tests for a specific folder
 
 Using TypeScript and Jest
+
+### Fundamentals
+
+Implementations of common data structures and algorithms
+
+- [x] [Quick Sort](./src/fundamentals/quicksort/)
+- [x] [Stack](./src/fundamentals/stack/)
+- [x] [Queue](./src/fundamentals/queue/)
+- [x] [Linked List](./src/fundamentals/linked-list/)
+- [x] [Binary Search Tree](./src/fundamentals/binary-search-tree/)
+- [ ] Heap
+- [ ] Trie
+- [ ] Graph (bfs, dfs, dijkstra's)
+
+### Solutions to _Cracking the Coding Interview_
+
+Refer to the book for the questions
+
+- [Chapter 1: Arrays and Strings](./src/ctci/chapter01/)
+- [Chapter 2: Linked Lists](./src/ctci/chapter02/)
 
 ## Resources
 
