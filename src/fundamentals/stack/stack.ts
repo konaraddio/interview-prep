@@ -1,5 +1,7 @@
 class Stack<T> {
+  lastElement: T;
   data: T[];
+
   constructor() {
     this.data = [];
   }
@@ -16,6 +18,13 @@ class Stack<T> {
    */
   pop(): T | undefined {
     return this.data.pop();
+  }
+
+  /**
+   * @returns last element or undefined if stack is empty
+   */
+  peek(): T | undefined {
+    return this.data.length > 0 ? this.data[this.data.length - 1] : undefined;
   }
 
   /**

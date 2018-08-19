@@ -18,3 +18,16 @@ describe("pop", () => {
     expect(s.length).toBe(1);
   });
 });
+
+describe("peek", () => {
+  test("returns top item in nonempty stack", () => {
+    let s = new Stack<number>();
+    s.push(4);
+    expect(s.peek()).toBe(4);
+  });
+
+  test("returns undefined for empty stack", () => {
+    let s = new Stack<number>();
+    expect(s.peek()).toBeUndefined();
+  });
+});
