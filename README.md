@@ -24,7 +24,7 @@ Implementations of common data structures and algorithms
 - [x] [Tree Traverals](./src/fundamentals/tree-traversals/)
 - [ ] Heap
 - [ ] Trie
-- [ ] Graph (bfs, dfs, dijkstra's)
+- [x] [Graph, Depth-First Search, Breadth-First Search](./src/fundamentals/graph/)
 
 ### Solutions to _Cracking the Coding Interview_
 
