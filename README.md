@@ -21,6 +21,7 @@ Implementations of common data structures and algorithms
 - [x] [Queue](./src/fundamentals/queue/)
 - [x] [Linked List](./src/fundamentals/linked-list/)
 - [x] [Binary Search Tree](./src/fundamentals/binary-search-tree/)
+- [x] [Tree Traverals](./src/fundamentals/tree-traversals/)
 - [ ] Heap
 - [ ] Trie
 - [ ] Graph (bfs, dfs, dijkstra's)
