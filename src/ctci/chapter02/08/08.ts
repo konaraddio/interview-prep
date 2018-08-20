@@ -1,6 +1,6 @@
 import { LinkedList, Node } from "../linked-list/linked-list";
 
-function getStartOfLoop(l: LinkedList<any>): Node<any> | null {
+function getStartOfLoop<T>(l: LinkedList<T>): Node<T> | null {
   let p1 = l.head;
   let p2 = l.head;
 

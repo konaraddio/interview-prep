@@ -1,9 +1,9 @@
 import { LinkedList, Node } from "../linked-list/linked-list";
 
-function findIntersection(
-  l1: LinkedList<any>,
-  l2: LinkedList<any>
-): Node<any> | null {
+function findIntersection<T>(
+  l1: LinkedList<T>,
+  l2: LinkedList<T>
+): Node<T> | null {
   if (l1.head == null || l2.head == null) {
     return null;
   }

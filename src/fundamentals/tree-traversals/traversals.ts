@@ -1,6 +1,6 @@
 import TreeNode from "./treenode";
 
-function inOrder(t: TreeNode<any>, visit: Function = t => console.log(t)) {
+function inOrder<T>(t: TreeNode<T>, visit: Function = t => console.log(t)) {
   if (t != null) {
     inOrder(t.left, visit);
     visit(t);
@@ -8,7 +8,7 @@ function inOrder(t: TreeNode<any>, visit: Function = t => console.log(t)) {
   }
 }
 
-function preOrder(t: TreeNode<any>, visit: Function = t => console.log(t)) {
+function preOrder<T>(t: TreeNode<T>, visit: Function = t => console.log(t)) {
   if (t != null) {
     visit(t);
     preOrder(t.left, visit);
@@ -16,7 +16,7 @@ function preOrder(t: TreeNode<any>, visit: Function = t => console.log(t)) {
   }
 }
 
-function postOrder(t: TreeNode<any>, visit: Function = t => console.log(t)) {
+function postOrder<T>(t: TreeNode<T>, visit: Function = t => console.log(t)) {
   if (t != null) {
     postOrder(t.left, visit);
     postOrder(t.right, visit);
