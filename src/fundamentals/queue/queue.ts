@@ -26,6 +26,10 @@ class Queue<T> {
   get length(): number {
     return this.data.length;
   }
+
+  isEmpty(): boolean {
+    return this.length < 1;
+  }
 }
 
 export default Queue;
