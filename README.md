@@ -45,9 +45,10 @@ Refer to the book for the questions
 
 ### Leetcode
 
-| #   | Difficulty | Title and Link to Solution    |
-| --- | ---------- | ----------------------------- |
-| 1   | Easy       | [Two Sum](./src/leetcode/01/) |
+| #   | Difficulty | Title and Link to Solution            |
+| --- | ---------- | ------------------------------------- |
+| 1   | Easy       | [Two Sum](./src/leetcode/01/)         |
+| 2   | Medium     | [Add Two Numbers](./src/leetcode/02/) |
 
 ## Resources
 
