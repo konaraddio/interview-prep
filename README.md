@@ -45,10 +45,11 @@ Refer to the book for the questions
 
 ### Leetcode
 
-| #   | Difficulty | Title and Link to Solution            |
-| --- | ---------- | ------------------------------------- |
-| 1   | Easy       | [Two Sum](./src/leetcode/01/)         |
-| 2   | Medium     | [Add Two Numbers](./src/leetcode/02/) |
+| #   | Difficulty | Title and Link to Solution                          |
+| --- | ---------- | --------------------------------------------------- |
+| 1   | Easy       | [Two Sum](./src/leetcode/01/)                       |
+| 2   | Medium     | [Add Two Numbers](./src/leetcode/02/)               |
+| 3   | Medium     | [Longest Substring w/o Repeats](./src/leetcode/03/) |
 
 ## Resources
 
