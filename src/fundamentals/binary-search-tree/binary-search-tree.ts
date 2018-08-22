@@ -158,3 +158,4 @@ class BinarySearchTree<T> {
 }
 
 export default BinarySearchTree;
+export { BSTNode };

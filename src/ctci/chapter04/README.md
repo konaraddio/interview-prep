@@ -1,7 +1,7 @@
 # Chapter 4
 
 - [4.1 Route Between Nodes](./01/)
-- 4.2 Minimal Tree
+- [4.2 Minimal Tree](./02/)
 - 4.3 List of Depths
 - 4.4 Check Balanced
 - 4.5 Validate BST
