@@ -34,7 +34,7 @@ Refer to the book for the questions
 - [Chapter 1: Arrays and Strings](./src/ctci/chapter01/)
 - [Chapter 2: Linked Lists](./src/ctci/chapter02/)
 - [Chapter 3: Stacks and Queues](./src/ctci/chapter03/)
-- Chapter 4: Trees and Graphs
+- [Chapter 4: Trees and Graphs](./src/ctci/chapter04/)
 - Chapter 5: Bit Manipulation
 - Chapter 6: Math and Logic Puzzles
 - Chapter 7: Object-Oriented Design
