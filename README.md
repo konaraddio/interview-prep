@@ -50,6 +50,7 @@ Refer to the book for the questions
 | 1   | Easy       | [Two Sum](./src/leetcode/01/)                       |
 | 2   | Medium     | [Add Two Numbers](./src/leetcode/02/)               |
 | 3   | Medium     | [Longest Substring w/o Repeats](./src/leetcode/03/) |
+| 4   | Hard       | [Median of Two Sorted Arrays](./src/leetcode/04/)   |
 
 ## Resources
 
