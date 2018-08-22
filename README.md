@@ -51,6 +51,7 @@ Refer to the book for the questions
 | 2   | Medium     | [Add Two Numbers](./src/leetcode/02/)               |
 | 3   | Medium     | [Longest Substring w/o Repeats](./src/leetcode/03/) |
 | 4   | Hard       | [Median of Two Sorted Arrays](./src/leetcode/04/)   |
+| 5   | Medium     | [Longest Palindromic Substring](./src/leetcode/05/) |
 
 ## Resources
 
