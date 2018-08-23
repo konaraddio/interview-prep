@@ -12,7 +12,7 @@ Preparing for interviews
 
 Using TypeScript, JavaScript, and Jest
 
-### Fundamentals
+## Fundamentals
 
 Implementations of common data structures and algorithms
 
@@ -27,7 +27,7 @@ Implementations of common data structures and algorithms
 - [ ] Trie
 - [x] [Graph, Depth-First Search, Breadth-First Search](./src/fundamentals/graph/)
 
-### Solutions to _Cracking the Coding Interview_
+## _Cracking the Coding Interview_
 
 Refer to the book for the questions
 
@@ -43,7 +43,7 @@ Refer to the book for the questions
 - Chapter 10: Sorting and Searching
 - Chapter 11: Testing
 
-### Leetcode
+## Leetcode
 
 | #   | Difficulty | Title and Link to Solution                          |
 | --- | ---------- | --------------------------------------------------- |
@@ -54,10 +54,5 @@ Refer to the book for the questions
 | 5   | Medium     | [Longest Palindromic Substring](./src/leetcode/05/) |
 | 6   | Medium     | [ZigZag Conversion](./src/leetcode/06/)             |
 | 7   | Easy       | [Reverse Integer](./src/leetcode/07/)               |
-
-## Resources
-
-- Cracking the Coding Interview (book)
-- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
-- [Leetcode](https://leetcode.com)
-- Competitive Programmer's Handbook (book)
+| 8   | Medium     | [String to Integer](./src/leetcode/08/)             |
+| 9   | Easy       | [Palindrome Number](./src/leetcode/09/)             |
