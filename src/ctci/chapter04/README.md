@@ -2,8 +2,8 @@
 
 - [4.1 Route Between Nodes](./01/)
 - [4.2 Minimal Tree](./02/)
-- 4.3 List of Depths
-- 4.4 Check Balanced
+- [4.3 List of Depths](./03/)
+- [4.4 Check Balanced](./04/)
 - 4.5 Validate BST
 - 4.6 Successor
 - 4.7 Build Order
