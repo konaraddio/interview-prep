@@ -47,15 +47,15 @@ Refer to the book for the questions
 
 Visit leetcode.com for the questions
 
-| #   | Difficulty | Title and Link to Solution                          |
-| --- | ---------- | --------------------------------------------------- |
-| 01  | Easy       | [Two Sum](./src/leetcode/01/)                       |
-| 02  | Medium     | [Add Two Numbers](./src/leetcode/02/)               |
-| 03  | Medium     | [Longest Substring w/o Repeats](./src/leetcode/03/) |
-| 04  | Hard       | [Median of Two Sorted Arrays](./src/leetcode/04/)   |
-| 05  | Medium     | [Longest Palindromic Substring](./src/leetcode/05/) |
-| 06  | Medium     | [ZigZag Conversion](./src/leetcode/06/)             |
-| 07  | Easy       | [Reverse Integer](./src/leetcode/07/)               |
-| 08  | Medium     | [String to Integer](./src/leetcode/08/)             |
-| 09  | Easy       | [Palindrome Number](./src/leetcode/09/)             |
-| 11  | Medium     | [Container with Most Water](./src/leetcode/11/)     |
+| #   | Difficulty | Title and Link to Solution                           |
+| --- | ---------- | ---------------------------------------------------- |
+| 01  | Easy       | [Two Sum](./src/leetcode/001/)                       |
+| 02  | Medium     | [Add Two Numbers](./src/leetcode/002/)               |
+| 03  | Medium     | [Longest Substring w/o Repeats](./src/leetcode/003/) |
+| 04  | Hard       | [Median of Two Sorted Arrays](./src/leetcode/004/)   |
+| 05  | Medium     | [Longest Palindromic Substring](./src/leetcode/005/) |
+| 06  | Medium     | [ZigZag Conversion](./src/leetcode/006/)             |
+| 07  | Easy       | [Reverse Integer](./src/leetcode/007/)               |
+| 08  | Medium     | [String to Integer](./src/leetcode/008/)             |
+| 09  | Easy       | [Palindrome Number](./src/leetcode/009/)             |
+| 11  | Medium     | [Container with Most Water](./src/leetcode/011/)     |
