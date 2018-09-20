@@ -60,3 +60,4 @@ Visit leetcode.com for the questions
 | 09  | Easy       | [Palindrome Number](./src/leetcode/009/)             |
 | 11  | Medium     | [Container with Most Water](./src/leetcode/011/)     |
 | 12  | Medium     | [Integer to Romain](./src/leetcode/012/)             |
+| 14  | Easy       | [Longest Common Prefix](./src/leetcode/014/)         |
