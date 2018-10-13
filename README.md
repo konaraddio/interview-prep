@@ -49,15 +49,16 @@ Visit leetcode.com for the questions
 
 | #   | Difficulty | Title and Link to Solution                           |
 | --- | ---------- | ---------------------------------------------------- |
-| 01  | Easy       | [Two Sum](./src/leetcode/001/)                       |
-| 02  | Medium     | [Add Two Numbers](./src/leetcode/002/)               |
-| 03  | Medium     | [Longest Substring w/o Repeats](./src/leetcode/003/) |
-| 04  | Hard       | [Median of Two Sorted Arrays](./src/leetcode/004/)   |
-| 05  | Medium     | [Longest Palindromic Substring](./src/leetcode/005/) |
-| 06  | Medium     | [ZigZag Conversion](./src/leetcode/006/)             |
-| 07  | Easy       | [Reverse Integer](./src/leetcode/007/)               |
-| 08  | Medium     | [String to Integer](./src/leetcode/008/)             |
-| 09  | Easy       | [Palindrome Number](./src/leetcode/009/)             |
-| 11  | Medium     | [Container with Most Water](./src/leetcode/011/)     |
-| 12  | Medium     | [Integer to Romain](./src/leetcode/012/)             |
-| 14  | Easy       | [Longest Common Prefix](./src/leetcode/014/)         |
+| 001 | Easy       | [Two Sum](./src/leetcode/001/)                       |
+| 002 | Medium     | [Add Two Numbers](./src/leetcode/002/)               |
+| 003 | Medium     | [Longest Substring w/o Repeats](./src/leetcode/003/) |
+| 004 | Hard       | [Median of Two Sorted Arrays](./src/leetcode/004/)   |
+| 005 | Medium     | [Longest Palindromic Substring](./src/leetcode/005/) |
+| 006 | Medium     | [ZigZag Conversion](./src/leetcode/006/)             |
+| 007 | Easy       | [Reverse Integer](./src/leetcode/007/)               |
+| 008 | Medium     | [String to Integer](./src/leetcode/008/)             |
+| 009 | Easy       | [Palindrome Number](./src/leetcode/009/)             |
+| 011 | Medium     | [Container with Most Water](./src/leetcode/011/)     |
+| 012 | Medium     | [Integer to Romain](./src/leetcode/012/)             |
+| 014 | Easy       | [Longest Common Prefix](./src/leetcode/014/)         |
+| 053 | Easy       | [Maximum Subarray](./src/leetcode/053/)              |
