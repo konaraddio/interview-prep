@@ -18,6 +18,7 @@ Implementations of common data structures and algorithms
 
 - [x] [Quick Sort](./src/fundamentals/quicksort/)
 - [ ] Merge Sort
+- [x] [Selection Sort](./src/fundamentals/selection-sort)
 - [x] [Bubble Sort](./src/fundamentals/bubblesort/)
 - [x] [Stack](./src/fundamentals/stack/)
 - [x] [Queue](./src/fundamentals/queue/)

@@ -1,4 +1,4 @@
-function bubbleSort(arr: number[]) {
+function bubbleSort(arr: number[]): number[] {
   let sorted = false;
   while (!sorted) {
     sorted = true;
