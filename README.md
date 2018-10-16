@@ -17,7 +17,6 @@ Using TypeScript, JavaScript, and Jest
 Implementations of common data structures and algorithms
 
 - [x] [Quick Sort](./src/fundamentals/quicksort/)
-- [ ] Merge Sort
 - [x] [Selection Sort](./src/fundamentals/selection-sort)
 - [x] [Bubble Sort](./src/fundamentals/bubblesort/)
 - [x] [Stack](./src/fundamentals/stack/)
@@ -25,8 +24,7 @@ Implementations of common data structures and algorithms
 - [x] [Linked List](./src/fundamentals/linked-list/)
 - [x] [Binary Search Tree](./src/fundamentals/binary-search-tree/)
 - [x] [Tree Traverals](./src/fundamentals/tree-traversals/)
-- [ ] Heap
-- [ ] Trie
+- [x] [Heap Sort](./src/fundamentals/heapsort/)
 - [x] [Graph, Depth-First Search, Breadth-First Search](./src/fundamentals/graph/)
 
 ## _Cracking the Coding Interview_
