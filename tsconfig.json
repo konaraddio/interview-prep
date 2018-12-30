@@ -20,6 +20,6 @@
     "rootDir": "src",
     "skipLibCheck": true
   },
-  "include": ["src/**/*.ts", "src/**/*.tsx"],
+  "include": ["src/**/*.ts", "src/**/*.tsx", "src/ctci/chapter01/04/04.js", "src/ctci/chapter01/04/04.test.js"],
   "exclude": ["node_modules"]
 }

@@ -61,4 +61,5 @@ Visit leetcode.com for the questions
 | 011 | Medium     | [Container with Most Water](./src/leetcode/011/)     |
 | 012 | Medium     | [Integer to Romain](./src/leetcode/012/)             |
 | 014 | Easy       | [Longest Common Prefix](./src/leetcode/014/)         |
+| 015 | Medium     | [3Sum](./src/leetcode/015/)                          |
 | 053 | Easy       | [Maximum Subarray](./src/leetcode/053/)              |
