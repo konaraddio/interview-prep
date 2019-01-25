@@ -31,5 +31,3 @@ function expandAroundCenter(s, left, right) {
 
 // Manacher's algorithm is faster than the above
 // Manacher's is O(n) while the above is O(n^2)
-
-export default longestPalindrome;

@@ -18,5 +18,3 @@ function getTwoSum(nums, target) {
 
   return [-1, -1]; // not found
 }
-
-export default getTwoSum;

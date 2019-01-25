@@ -8,7 +8,7 @@ Preparing for interviews
 2.  `cd interview-prep/`
 3.  `npm i` to install all dependencies
 4.  `npm t` to run all tests
-5.  `npm t path_to_folder/` to run tests for a specific folder
+5.  `npm t path_to_folder/` to run tests for a specific folder (only `src/ctci/` and `src/fundamentals/` have tests)
 
 Using TypeScript, JavaScript, and Jest
 
@@ -59,7 +59,6 @@ Visit leetcode.com for the questions
 | 008 | Medium     | [String to Integer](./src/leetcode/008/)             |
 | 009 | Easy       | [Palindrome Number](./src/leetcode/009/)             |
 | 011 | Medium     | [Container with Most Water](./src/leetcode/011/)     |
-| 012 | Medium     | [Integer to Romain](./src/leetcode/012/)             |
+| 012 | Medium     | [Integer to Roman](./src/leetcode/012/)              |
 | 014 | Easy       | [Longest Common Prefix](./src/leetcode/014/)         |
-| 015 | Medium     | [3Sum](./src/leetcode/015/)                          |
 | 053 | Easy       | [Maximum Subarray](./src/leetcode/053/)              |

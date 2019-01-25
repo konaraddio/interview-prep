@@ -13,5 +13,3 @@ function longestCommonPrefix(strs) {
   }
   return prefix;
 }
-
-export { longestCommonPrefix };

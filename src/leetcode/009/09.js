@@ -23,5 +23,3 @@ function isPalindrome(x) {
 
   return true;
 }
-
-export default isPalindrome;

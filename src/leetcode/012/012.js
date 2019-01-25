@@ -68,5 +68,3 @@ function intToRoman(num) {
 
   return result;
 }
-
-export default intToRoman;

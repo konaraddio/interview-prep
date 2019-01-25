@@ -10,4 +10,3 @@ function maxSubArray(nums) {
   return global_max;
 }
 
-export { maxSubArray };

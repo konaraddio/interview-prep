@@ -16,5 +16,3 @@ function maxArea(height) {
 
   return maxArea;
 }
-
-export default maxArea;

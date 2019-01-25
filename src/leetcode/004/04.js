@@ -26,5 +26,3 @@ function findMedianSortedArrays(nums1, nums2) {
 
   return mergedArr[center];
 }
-
-export default findMedianSortedArrays;

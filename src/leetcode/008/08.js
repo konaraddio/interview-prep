@@ -18,5 +18,3 @@ function stringToInt(str) {
 // even faster (and smaller) solution from leetcode's submissions
 const atoi = str =>
   Math.max(Math.min(parseInt(str) || 0, 2147483647), -2147483648);
-
-export default stringToInt;

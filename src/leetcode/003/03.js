@@ -16,5 +16,3 @@ function lengthOfLongestSubstr(s) {
   }
   return currentMax;
 }
-
-export default lengthOfLongestSubstr;

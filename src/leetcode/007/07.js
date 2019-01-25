@@ -16,5 +16,3 @@ function reverse(x) {
   }
   return Number(x);
 }
-
-export default reverse;

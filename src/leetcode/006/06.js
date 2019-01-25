@@ -18,5 +18,3 @@ function convert(s, numRows) {
 
   return result;
 }
-
-export default convert;
