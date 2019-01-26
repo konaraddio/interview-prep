@@ -64,4 +64,5 @@ Visit leetcode.com for the questions
 | 017 | Medium     | [Letter Combinations of a Phone Number](./src/leetcode/017/) |
 | 019 | Medium     | [Remove Nth Node From End of List](./src/leetcode/019/)      |
 | 022 | Medium     | [Generate Parentheses](./src/leetcode/022/)                  |
+| 023 | Hard       | [Merge K Sorted Lists](./src/leetcode/023/)                  |
 | 053 | Easy       | [Maximum Subarray](./src/leetcode/053/)                      |
