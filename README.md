@@ -65,6 +65,7 @@ Visit leetcode.com for the questions
 | 014 | Easy       | [Longest Common Prefix](./src/leetcode/014/)                 |
 | 017 | Medium     | [Letter Combinations of a Phone Number](./src/leetcode/017/) |
 | 019 | Medium     | [Remove Nth Node From End of List](./src/leetcode/019/)      |
+| 021 | Easy       | [Merge Two Sorted Lists](./src/leetcode/021/)                |
 | 022 | Medium     | [Generate Parentheses](./src/leetcode/022/)                  |
 | 023 | Hard       | [Merge K Sorted Lists](./src/leetcode/023/)                  |
 | 024 | Medium     | [Swap Nodes in Pairs](./src/leetcode/024/)                   |
