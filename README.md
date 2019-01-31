@@ -66,4 +66,5 @@ Visit leetcode.com for the questions
 | 022 | Medium     | [Generate Parentheses](./src/leetcode/022/)                  |
 | 023 | Hard       | [Merge K Sorted Lists](./src/leetcode/023/)                  |
 | 024 | Medium     | [Swap Nodes in Pairs](./src/leetcode/024/)                   |
+| 029 | Medium     | [Divide Two Integers](./src/leetcode/029/)                   |
 | 053 | Easy       | [Maximum Subarray](./src/leetcode/053/)                      |
