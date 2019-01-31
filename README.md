@@ -61,6 +61,7 @@ Visit leetcode.com for the questions
 | 010 | Hard       | [Regular Expression Matching](./src/leetcode/010/)           |
 | 011 | Medium     | [Container with Most Water](./src/leetcode/011/)             |
 | 012 | Medium     | [Integer to Roman](./src/leetcode/012/)                      |
+| 013 | Easy       | [Roman to Integer](./src/leetcode/013/)                      |
 | 014 | Easy       | [Longest Common Prefix](./src/leetcode/014/)                 |
 | 017 | Medium     | [Letter Combinations of a Phone Number](./src/leetcode/017/) |
 | 019 | Medium     | [Remove Nth Node From End of List](./src/leetcode/019/)      |
