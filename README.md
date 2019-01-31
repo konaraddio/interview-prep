@@ -58,6 +58,7 @@ Visit leetcode.com for the questions
 | 007 | Easy       | [Reverse Integer](./src/leetcode/007/)                       |
 | 008 | Medium     | [String to Integer](./src/leetcode/008/)                     |
 | 009 | Easy       | [Palindrome Number](./src/leetcode/009/)                     |
+| 010 | Hard       | [Regular Expression Matching](./src/leetcode/010/)           |
 | 011 | Medium     | [Container with Most Water](./src/leetcode/011/)             |
 | 012 | Medium     | [Integer to Roman](./src/leetcode/012/)                      |
 | 014 | Easy       | [Longest Common Prefix](./src/leetcode/014/)                 |
