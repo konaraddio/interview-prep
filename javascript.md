@@ -4,9 +4,9 @@ Quick notes for preparing for a JavaScript-specific interview.
 
 Resources:
 
+- https://github.com/yangshun/front-end-interview-handbook
 - https://github.com/leonardomso/33-js-concepts
 - https://github.com/getify/You-Dont-Know-JS
-- https://github.com/yangshun/front-end-interview-handbook
 - https://github.com/yangshun/tech-interview-handbook
 
 Miscellaneous topics to cover:
@@ -22,11 +22,22 @@ JavaScript is single-threaded and synchronous. But requests and timers are async
 
 From [this Medium post](https://medium.freecodecamp.org/javascript-closures-simplified-d0d23fa06ba4):
 
-> A closure is a feature in JavaScript where an inner function has access to the outer (enclosing) function’s variables — a scope chain.
+> A closure is a feature in JavaScript where an inner function has access to the outer (enclosing) function’s variables.
 
 # `this` (**M**)
 
-Refers to the context of execution (hence the need for stuff like `fn.bind` (retain context) or `fn.call` (sets `this` to `fn`)).
+https://codeburst.io/the-simple-rules-to-this-in-javascript-35d97f31bde3
+
+- when using `new` then `this` refers to the object created
+- use `call`, `apply`, `bind` to assign `this`
+  - `call` and `apply` assign and execute
+  - `bind` returns a function where `this` is the LHS of `.bind`
+- if an object calls a function (e.g. `obj.whoami()`) then `this` refers to the object
+- Note that global functions are automatically a property of `window` (so `this` refers to `window` for global functions)
+- If multiple of the above rules apply, the rule that is higher wins and will set the this value
+- "If the function is an ES2015 arrow function, it ignores all the rules above and receives the this value of its surrounding scope at the time it’s created"v
+
+Practice questions here: https://stackoverflow.com/questions/3127429/how-does-the-this-keyword-work/3127440#3127440
 
 # Callbacks, Promises, async/await
 
