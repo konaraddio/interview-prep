@@ -72,3 +72,4 @@ Visit leetcode.com for the questions
 | 029 | Medium     | [Divide Two Integers](./src/leetcode/029/)                   |
 | 053 | Easy       | [Maximum Subarray](./src/leetcode/053/)                      |
 | 136 | Easy       | [Single Number](./src/leetcode/136/)                         |
+| 217 | Easy       | [Contains Duplicate](./src/leetcode/217/)                    |
