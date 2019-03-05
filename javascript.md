@@ -18,13 +18,13 @@ Miscellaneous topics to cover:
 
 JavaScript is single-threaded and synchronous. But requests and timers are asynchronous (I/O model is non-blocking and asynchronous).
 
-# Closures / Function wrappers (**M**)
+# Closures / Function wrappers
 
 From [this Medium post](https://medium.freecodecamp.org/javascript-closures-simplified-d0d23fa06ba4):
 
 > A closure is a feature in JavaScript where an inner function has access to the outer (enclosing) function’s variables.
 
-# `this` (**M**)
+# `this` 
 
 https://codeburst.io/the-simple-rules-to-this-in-javascript-35d97f31bde3
 
@@ -47,7 +47,7 @@ Resources Used: [Medium post](https://medium.com/codebuddies/getting-to-know-asy
 
 Callback is a function x passed into another function y where x is usually invoked in y. Asynchronous callbacks refer to callbacks invoked on a result when the result is ready.
 
-## Promises (**M**)
+## Promises
 
 Object for encapsulating asynchronous operations, like requests, and notifying if it's a success (resolved) or failure (rejected).
 
@@ -156,7 +156,7 @@ f1();
 
 `document.querySelectorAll`
 
-## DOM Manipulation (**M**)
+## DOM Manipulation
 
 When adding stuff to the DOM, use `document.createElement` and other document APIs to create the element then append it to the DOM. Only use `.innerHTML` if it's something small with no risk of a XSS attack. `.innerHTML` is faster at the cost of maintenability for larger manipulations; but it's neat for small manipulations (if you use the template strings).
 
