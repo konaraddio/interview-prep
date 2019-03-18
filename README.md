@@ -47,8 +47,8 @@ Refer to the book for the questions
 
 Visit leetcode.com for the questions
 
-| #   | Difficulty | Link to Solution                                             | 
-| --- | ---------- | ------------------------------------------------------------ | 
+| #   | Difficulty | Link to Solution                                             |
+| --- | ---------- | ------------------------------------------------------------ |
 | 001 | Easy       | [Two Sum](./src/leetcode/001/)                               |
 | 002 | Medium     | [Add Two Numbers](./src/leetcode/002/)                       |
 | 003 | Medium     | [Longest Substring w/o Repeats](./src/leetcode/003/)         |
@@ -63,6 +63,7 @@ Visit leetcode.com for the questions
 | 012 | Medium     | [Integer to Roman](./src/leetcode/012/)                      |
 | 013 | Easy       | [Roman to Integer](./src/leetcode/013/)                      |
 | 014 | Easy       | [Longest Common Prefix](./src/leetcode/014/)                 |
+| 015 | Medium     | [3Sum](./src/leetcode/015/)                                  |
 | 017 | Medium     | [Letter Combinations of a Phone Number](./src/leetcode/017/) |
 | 019 | Medium     | [Remove Nth Node From End of List](./src/leetcode/019/)      |
 | 021 | Easy       | [Merge Two Sorted Lists](./src/leetcode/021/)                |
@@ -71,7 +72,7 @@ Visit leetcode.com for the questions
 | 024 | Medium     | [Swap Nodes in Pairs](./src/leetcode/024/)                   |
 | 029 | Medium     | [Divide Two Integers](./src/leetcode/029/)                   |
 | 053 | Easy       | [Maximum Subarray](./src/leetcode/053/)                      |
-| 122 | Easy       | [Best Time to Buy and Sell Stock](./src/leetcode/122/)       | 
+| 122 | Easy       | [Best Time to Buy and Sell Stock](./src/leetcode/122/)       |
 | 136 | Easy       | [Single Number](./src/leetcode/136/)                         |
 | 217 | Easy       | [Contains Duplicate](./src/leetcode/217/)                    |
 | 219 | Easy       | [Contains Duplicate II](./src/leetcode/219/)                 |
