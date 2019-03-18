@@ -76,3 +76,4 @@ Visit leetcode.com for the questions
 | 136 | Easy       | [Single Number](./src/leetcode/136/)                         |
 | 217 | Easy       | [Contains Duplicate](./src/leetcode/217/)                    |
 | 219 | Easy       | [Contains Duplicate II](./src/leetcode/219/)                 |
+| 226 | Easy       | [Invert Binary Tree](./src/leetcode/226/)                    |
