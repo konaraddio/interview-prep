@@ -1,50 +1,49 @@
-function ListNode(val) {
-  this.val = val;
-  this.next = null;
-}
+/**
+ * Definition for singly-linked list.
+ * function ListNode(val) {
+ *     this.val = val;
+ *     this.next = null;
+ * }
+ */
+/**
+ * @param {ListNode} l1
+ * @param {ListNode} l2
+ * @return {ListNode}
+ */
+var addTwoNumbers = function (l1, l2) {
+  let p1 = l1
+  let p2 = l2
+  const dummyHead = { val: null, next: null }
+  let current = dummyHead
+  let carry = 0
 
-function addTwoNumbers(l1, l2) {
-  if (l1 == null && l2 == null) {
-    return null;
-  }
+  while (p1 != null || p2 != null) {
+    current.next = { val: null, next: null }
+    current = current.next
+    let sum = carry
 
-  let head;
-  let sum;
-  let carry = 0;
-
-  // to set up the head
-  if (l1 != null || l2 != null) {
-    let val = l1.val + l2.val;
-    if (val > 9) {
-      val -= 10;
-      carry = 1;
+    if (p1 != null) {
+      sum += p1.val
+      p1 = p1.next
     }
-    sum = new ListNode(val);
-    head = sum;
-    l1 = l1 ? l1.next : null;
-    l2 = l2 ? l2.next : null;
-  }
 
-  while (l1 != null || l2 != null) {
-    const l1Value = l1 ? l1.val : 0;
-    const l2Value = l2 ? l2.val : 0;
-    let val = l1Value + l2Value + carry;
-    if (val > 9) {
-      val -= 10;
-      carry = 1;
+    if (p2 != null) {
+      sum += p2.val
+      p2 = p2.next
+    }
+
+    if (sum >= 10) {
+      current.val = sum - 10
+      carry = 1
     } else {
-      carry = 0;
+      current.val = sum
+      carry = 0
     }
-    let newNode = new ListNode(val);
-    sum.next = newNode;
-    sum = sum.next;
-    l1 = l1 ? l1.next : null;
-    l2 = l2 ? l2.next : null;
   }
 
   if (carry == 1) {
-    sum.next = new ListNode(1);
+    current.next = { val: 1, next: null }
   }
 
-  return head;
-}
+  return dummyHead.next
+};
