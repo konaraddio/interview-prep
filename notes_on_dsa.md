@@ -1,4 +1,4 @@
-# Notes
+# Notes on DS/A questions
 
 ## Patterns
 
@@ -17,5 +17,3 @@ A common trick to going from O(nlgn) (assuming this approach involves sorting) i
 For example, given an array of numbers and you need to find the minimum difference between any two numbers in the given array, you can bucket by number and end up with a sorted list across the buckets which you can then iterate over to find the minimum difference between any two elements.
 
 The bucket approach is generally good if you know the data is confined within two end points (e.g. if it's an array of times then the number of buckets must be a constant).
-
-
