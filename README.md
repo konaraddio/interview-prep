@@ -9,14 +9,15 @@ Preparing for interviews.
 
 ## Leetcode
 
-| #   | Difficulty | Solution                                                  |
-| --- | ---------- | --------------------------------------------------------- |
-| 002 | Medium     | [Add Two Numbers](./src/leetcode/002.js)                  |
-| 141 | Easy       | [Linked List Cycle](./src/leetcode/141.js)                |
-| 142 | Medium     | [Linked List Cycle II](./src/leetcode/142.js)             |
-| 160 | Easy       | [Intersection of Two Linked Lists](./src/leetcode/160.js) |
-| 206 | Easy       | [Reverse Linked List](./src/leetcode/206.js)              |
-| 234 | Easy       | [Palindrome Linked List](./src/leetcode/234.js)           |
+| #   | Difficulty | Solution                                                                |
+| --- | ---------- | ----------------------------------------------------------------------- |
+| 002 | Medium     | [Add Two Numbers](./src/leetcode/002.js)                                |
+| 003 | Medium     | [Longest Substring Without Repeating Characters](./src/leetcode/003.js) |
+| 141 | Easy       | [Linked List Cycle](./src/leetcode/141.js)                              |
+| 142 | Medium     | [Linked List Cycle II](./src/leetcode/142.js)                           |
+| 160 | Easy       | [Intersection of Two Linked Lists](./src/leetcode/160.js)               |
+| 206 | Easy       | [Reverse Linked List](./src/leetcode/206.js)                            |
+| 234 | Easy       | [Palindrome Linked List](./src/leetcode/234.js)                         |
 
 ## Resources
 
