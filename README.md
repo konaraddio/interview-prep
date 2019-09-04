@@ -16,6 +16,7 @@ Preparing for interviews.
 | 003 | Medium     | [Longest Substring Without Repeating Characters](./src/leetcode/003.js) |
 | 102 | Medium     | [Binary Tree Level Order Traversal](./src/leetcode/102.js)              |
 | 110 | Easy       | [Balanced Binary Tree](./src/leetcode/110.js)                           |
+| 121 | Easy       | [Best Time to Buy and Sell Stock](./src/leetcode/121.js)                |
 | 141 | Easy       | [Linked List Cycle](./src/leetcode/141.js)                              |
 | 142 | Medium     | [Linked List Cycle II](./src/leetcode/142.js)                           |
 | 160 | Easy       | [Intersection of Two Linked Lists](./src/leetcode/160.js)               |
