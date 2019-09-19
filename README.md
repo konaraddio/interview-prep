@@ -23,6 +23,7 @@ Preparing for interviews.
 | 142 | Medium     | [Linked List Cycle II](./src/leetcode/142.js)                           |
 | 160 | Easy       | [Intersection of Two Linked Lists](./src/leetcode/160.js)               |
 | 206 | Easy       | [Reverse Linked List](./src/leetcode/206.js)                            |
+| 230 | Medium     | [Kth Smallest Element in BST](./src/leetcode/230.js)                    |
 | 234 | Easy       | [Palindrome Linked List](./src/leetcode/234.js)                         |
 | 459 | Easy       | [Repeated Substring Pattern](./src/leetcode/459.js)                     |
 | 797 | Medium     | [All Paths from Source to Target](./src/leetcode/797.js)                |
