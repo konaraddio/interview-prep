@@ -21,6 +21,7 @@ Preparing for interviews.
 | 121 | Easy       | [Best Time to Buy and Sell Stock](./src/leetcode/121.js)                |
 | 141 | Easy       | [Linked List Cycle](./src/leetcode/141.js)                              |
 | 142 | Medium     | [Linked List Cycle II](./src/leetcode/142.js)                           |
+| 153 | Medium     | [Find Minimum in Rotated Sorted Array](./src/leetcode/153.js)           |
 | 160 | Easy       | [Intersection of Two Linked Lists](./src/leetcode/160.js)               |
 | 206 | Easy       | [Reverse Linked List](./src/leetcode/206.js)                            |
 | 230 | Medium     | [Kth Smallest Element in BST](./src/leetcode/230.js)                    |
