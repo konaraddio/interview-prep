@@ -14,6 +14,7 @@ Preparing for interviews.
 | --- | ---------- | ----------------------------------------------------------------------- |
 | 002 | Medium     | [Add Two Numbers](./src/leetcode/002.js)                                |
 | 003 | Medium     | [Longest Substring Without Repeating Characters](./src/leetcode/003.js) |
+| 056 | Medium     | [Merge Intervals](./src/leetcode/056.js)                                |
 | 075 | Medium     | [Sort Colors](./src/leetcode/075.js)                                    |
 | 098 | Medium     | [Validate Binary Search Tree](./src/leetcode/098.js)                    |
 | 102 | Medium     | [Binary Tree Level Order Traversal](./src/leetcode/102.js)              |
