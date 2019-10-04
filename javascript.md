@@ -185,3 +185,5 @@ Undeclared, but assigned, variables are automatically global variables.
 > Main difference is scoping rules. Variables declared by var keyword are scoped to the immediate function body (hence the function scope) while let variables are scoped to the immediate enclosing block denoted by { } (hence the block scope).
 
 https://stackoverflow.com/questions/762011/whats-the-difference-between-using-let-and-var
+
+`var` (and `function` and `import`) get hoisted while `let` does not get hoisted.
