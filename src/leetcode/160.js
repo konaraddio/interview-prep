@@ -1,13 +1,14 @@
 // #160 https://leetcode.com/problems/intersection-of-two-linked-lists/
 
-// Clever solution from leetcode submissions:
+// Clever, but not necessarily better, solution from leetcode submissions:
 var getIntersectionNode = function(headA, headB) {
   let currentA = headA;
   let currentB = headB;
 
+  // Note: we can end up iterating over the linkedlists multiple times
   while (currentA != currentB) {
-    currentA = currentA ? (currentA = currentA.next) : headB;
-    currentB = currentB ? (currentB = currentB.next) : headA;
+    currentA = currentA ? currentA.next : headB;
+    currentB = currentB ? currentB.next : headA;
   }
   return currentA;
 };
@@ -60,9 +61,11 @@ let c = { data: 3 };
 let d = { data: 4 };
 let e = { data: 5 };
 
-a.next = b;
-c.next = b;
+a.next = c;
 b.next = d;
+d.next = c;
+c.next = e;
 
-console.log(getIntersectionNode(a, c));
-console.log(getIntersectionNode(a, e));
+console.log(getIntersectionNode(a, b) == c);
+console.log(getIntersectionNode(a, e) == e);
+console.log(getIntersectionNode(a, { data: 1 }) == null);
