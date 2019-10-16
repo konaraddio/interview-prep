@@ -133,3 +133,7 @@ Heap
 ---
 
 Cherry Pick Up - https://leetcode.com/problems/cherry-pickup/
+
+## Additional questions
+
+LRU Cache and Basic Calculator are common
